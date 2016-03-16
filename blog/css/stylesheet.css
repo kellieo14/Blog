@@ -1,0 +1,37 @@
+.preview img {
+  max-width: 400px;
+  float: left;
+  margin-right: 30px;
+}
+
+.preview {
+  margin: 20px;
+  margin-bottom: 150px;
+}
+
+.intro{
+  text-align: center;
+  background-color: #ccffff;
+  margin: 20px;
+  padding: 15px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-bottom: 80px;
+  line-height: 30px;
+}
+
+li {
+  list-style: none;
+  display: inline;
+
+}
+
+header {
+  background-color: Gray;
+  line-height: 50px;
+  color: white;
+  }
+
+.nav {
+  padding-left: 20%;
+}
